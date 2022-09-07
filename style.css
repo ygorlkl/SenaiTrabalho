@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    
+}
+
+body{
+    background-color: rgba(255, 228, 196, 0.521);
+}
+
+h1{
+    z-index: 2;
+    font-style: italic;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: arial, sans-serif
+}
+
+header{
+    background-color: rgba(139, 194, 127, 0.788);
+    padding: 1vw;
+}
+
+.cabeça{
+    text-align: center;
+    margin-top: 0vw;
+}
+
+.img{
+    width: 90vw;
+    text-align: center;
+
+}
+
+form{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 3vw;
+}
+
+.imgP{
+    text-align: center;
+    background-color: bisque;
+}
+
